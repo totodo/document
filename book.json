@@ -1,0 +1,9 @@
+{
+  "plugins": ["-sharing", "jkom"],
+  "pluginsConfig": {
+    "jkom": {
+      "editBase": "https://github.com/tsq-nodejs/document",
+      "editLabel": "edit"
+    }
+  }
+}
